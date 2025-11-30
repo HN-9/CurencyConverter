@@ -1,2 +1,19 @@
-# CurencyConverter
-A simple Python-based Currency Converter that uses real-time exchange rates from an online API. Supports 160+ currencies, provides accurate conversions instantly, and runs directly in the terminal. Lightweight, fast, and perfect for beginners exploring API integration in Python
+# 💱 Python Currency Converter (Using Real-Time API)
+
+A simple Python script that converts currency values using the **ExchangeRate-API**, providing real-time exchange rates.
+
+---
+
+## 🚀 Features
+- Convert any currency to another (USD → INR, EUR → JPY, etc.)
+- Uses real-time exchange rates
+- Easy to use command-line interface
+- Works with 160+ world currencies
+
+---
+
+## 📌 Requirements
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
